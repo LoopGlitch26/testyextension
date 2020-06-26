@@ -16,8 +16,8 @@
 	"contributes": {
 		"commands": [
 			{
-				"command": "testyextension.helloWorld",
-				"title": "Hello World"
+				"command": "testyextension.createBoilerplate",
+				"title": "Create Web Boilerplate"
 			}
 		]
 	},
